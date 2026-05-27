@@ -1,0 +1,319 @@
+Geschlecht;Alter;Geburtsmonat;Groesse;Haarfarbe;Anfahrtsweg;Anfahrtsmittel;Anzahl_SWS;ZeitUnterhaltungsmedien;Posts;WhatsApp;Mensa
+w;41;12;180;braun;7;PKW;18;1;0;7;(0) nie
+w;19;8;164;blond;0,3;zuFuss;18;2;0;54;(2) zweimal pro Woche
+w;20;10;174;blond;1;Fahrrad;22;2;1;100;(1) einmal pro Woche
+m;21;7;198;braun;1;PKW;;1,5;0;20;(3) dreimal pro Woche
+w;19;12;171;braun;1,6;Nahverkehr;18;4;0;4;(1) einmal pro Woche
+w;19;12;170;blond;2;;20;2;1;50;(1) einmal pro Woche
+w;19;9;173;braun;2,1;Nahverkehr;22;4;0;10;(0) nie
+m;21;10;186;braun;2,5;Fahrrad;;4;0;4;(2) zweimal pro Woche
+w;20;1;160;braun;2,7;Nahverkehr;22;2,5;3;3;(1) einmal pro Woche
+w;20;12;170;blond;2,8;Fahrrad;24;3;0;20;(1) einmal pro Woche
+w;19;12;185;braun;2,8;PKW;14;4;1;13;(0) nie
+w;20;7;169;blond;3;Nahverkehr;12;2;0,3;30;(1) einmal pro Woche
+m;25;5;179;blond;3;Fahrrad;30;4;0;40;(1) einmal pro Woche
+w;21;3;155;blond;3;PKW;22;2;2;20;(0) nie
+w;20;11;179;blond;3,5;Nahverkehr;28;2,5;0,5;30;(0) nie
+w;21;3;171;blond;4;Nahverkehr;20;3;0;30;(0) nie
+w;22;1;161;blond;4;Nahverkehr;13;3;1;51;(1) einmal pro Woche
+w;24;12;73;blond;4,9;PKW;22;3;0,3;5;(2) zweimal pro Woche
+w;23;10;174;braun;5;Nahverkehr;16;3;0;37;(2) zweimal pro Woche
+w;20;10;170;braun;5;Nahverkehr;;1;0;;(3) dreimal pro Woche
+m;26;23;190;braun;5;Fahrrad;18;3;0,3;25;(5) jeden Tag
+w;22;5;177;grau;5;Nahverkehr;20;5;0;30;(1) einmal pro Woche
+m;21;1;173;braun;6;Nahverkehr;16;3;0;2much;(2) zweimal pro Woche
+w;20;12;177;braun;13;Nahverkehr;22;5;0;20;(1) einmal pro Woche
+w;24;8;161;blond;14;Nahverkehr;20;2;1;50;(1) einmal pro Woche
+w;20;11;180;blond;15;Nahverkehr;26;1;0;47;(0) nie
+w;26;6;168;blond;15;PKW;22;4;0;250;(0) nie
+m;20;7;190;braun;15;Nahverkehr;;5;0;200;(1) einmal pro Woche
+m;19;7;198;braun;15;Nahverkehr;12;4;0,2;65;(1) einmal pro Woche
+w;24;6;169;braun;16;Nahverkehr;16;5;1;20;(1) einmal pro Woche
+w;23;10;167;rot;17;Nahverkehr;26;3;0,5;39;(2) zweimal pro Woche
+w;31;5;160;blond;18;PKW;26;1;0;15;(0) nie
+w;20;10;160;blond;19;PKW;;1,5;0;20;(2) zweimal pro Woche
+w;24;11;170;blond;20;Nahverkehr;22;2;0,5;5;(2) zweimal pro Woche
+w;20;4;163;blond;20;Nahverkehr;;0,5;0;40;(1) einmal pro Woche
+w;21;2;162;blond;21;Nahverkehr;24;3;0;6;(0) nie
+m;25;3;184;blond;22;Nahverkehr;18;5;1;111;(3) dreimal pro Woche
+w;20;3;168;blond;22;Nahverkehr;20;3;0;100;(1) einmal pro Woche
+m;20;5;188;blond;22;Nahverkehr;10;2;20;115;(1) einmal pro Woche
+w;20;2;163;braun;22;Nahverkehr;20;5;0;18;(1) einmal pro Woche
+m;20;12;185;rot;23;Nahverkehr;18;6;2;50;(0) nie
+w;21;7;170;braun;28;Nahverkehr;28;1;0;15;(0) nie
+w;22;3;163;blond;30;Nahverkehr;28;2,5;0;75;(1) einmal pro Woche
+w;20;11;173;blond;30;Nahverkehr;20;2;0,5;6;(4) viermal pro Woche
+w;26;3;164;braun;30;Nahverkehr;20;3;0;20;(1) einmal pro Woche
+w;19;5;163;blond;34;Nahverkehr;26;2;0;30;(1) einmal pro Woche
+m;20;2;186;blond;35;PKW;6;2;0;40;(0) nie
+w;31;5;163;blond;40;PKW;4;5;1;25;(0) nie
+w;19;6;168;braun;40;Nahverkehr;24;1;0;50;(1) einmal pro Woche
+w;20;8;175;blond;43;Nahverkehr;20;2;0;30;(0) nie
+w;19;5;180;braun;43;Nahverkehr;;3;1;50;(1) einmal pro Woche
+w;23;10;168;braun;44;PKW;14;10;2;20;(2) zweimal pro Woche
+w;22;7;60;braun;45;PKW;26;1;0;10;(5) jeden Tag
+m;22;12;183;braun;45;Nahverkehr;22;3;0;100;(0) nie
+w;21;9;171;blond;50;Nahverkehr;16;2;1;100;(2) zweimal pro Woche
+w;19;11;168;braun;50;Nahverkehr;14;6;1;;(1) einmal pro Woche
+m;20;12;188;braun;50;Nahverkehr;11;5;0;20;(2) zweimal pro Woche
+w;24;3;164;blond;55;Nahverkehr;20;3;1;100;(2) zweimal pro Woche
+m;20;10;186;blond;60;Nahverkehr;20;2;3;80;(2) zweimal pro Woche
+w;27;1;157;blond;60;Nahverkehr;22;6;0;8;(2) zweimal pro Woche
+w;42;7;165;blond;62;Nahverkehr;18;1;0;17;(3) dreimal pro Woche
+m;21;6;176;braun;75;PKW;11;6;10;45;(2) zweimal pro Woche
+w;18;5;163;blond;;Nahverkehr;;3,5;;;(1) einmal pro Woche
+w;20;1;168;braun;;Nahverkehr;;3;0;50;(2) zweimal pro Woche
+w;20;6;158;braun;;PKW;;;;12;(2) zweimal pro Woche
+w;20;2;170;rot;;PKW;;;;;(0) nie
+m;28;11;187;blond;20;Nahverkehr;24;2;0;100;(1) einmal pro Woche
+w;20;11;173;blond;34;PKW;26;2;0;;(0) nie
+w;;7;170;braun;54;Nahverkehr;24;5;0;25;(2) zweimal pro Woche
+w;30;6;160;braun;0;Nahverkehr;14;2;0;;(0) nie
+w;25;7;170;braun;0,2;zuFuss;28;1,5;0,001;50;(4) viermal pro Woche
+w;21;10;172;blond;0,5;zuFuss;24;2;2;15;(5) jeden Tag
+w;20;9;168;braun;0,5;zuFuss;30;3;150;100;(2) zweimal pro Woche
+w;21;1;165;braun;1;Fahrrad;26;3;10;21;(2) zweimal pro Woche
+w;20;5;175;blond;1,2;Nahverkehr;26;5;0;150;(1) einmal pro Woche
+w;25;10;165;braun;1,5;PKW;20;2;0;30;(3) dreimal pro Woche
+w;24;6;164;braun;2;zuFuss;22;2;0;25;(2) zweimal pro Woche
+w;22;3;153;blond;3;Nahverkehr;;1;0;50;(1) einmal pro Woche
+w;23;2;179;blond;3;Nahverkehr;24;3;0;3;(0) nie
+w;21;8;170;blond;3;Nahverkehr;22;3;0;200;(1) einmal pro Woche
+m;24;9;181;blond;3;Nahverkehr;20;4;0;10;(0) nie
+w;24;12;175;braun;3;Nahverkehr;24;5;0;500;(2) zweimal pro Woche
+w;21;4;172;braun;3;Nahverkehr;24;2;15;82;(2) zweimal pro Woche
+w;21;8;171;braun;3;Nahverkehr;28;4;0;95;(1) einmal pro Woche
+w;32;9;163;braun;3;zuFuss;12;3;0;4;(1) einmal pro Woche
+w;21;9;173;rot;3;zuFuss;24;3;0;;(1) einmal pro Woche
+w;22;9;153;schwarz;3;Nahverkehr;9;2;0;50;(2) zweimal pro Woche
+w;21;4;168;blond;3,2;Nahverkehr;26;3;1;150;(1) einmal pro Woche
+w;26;9;172;blond;3,4;Nahverkehr;20;3;0;47;(1) einmal pro Woche
+w;21;3;176;blond;3,4;Fahrrad;22;4;0;20;(2) zweimal pro Woche
+w;26;4;164;blond;3,5;Nahverkehr;;7;0;7;(0) nie
+w;20;11;172;blond;3,8;Nahverkehr;24;3;1;25;(1) einmal pro Woche
+w;21;9;168;blond;3,8;Nahverkehr;26;3;1;10;(0) nie
+w;22;7;168;blond;4;Nahverkehr;26;2;0;112;(1) einmal pro Woche
+m;24;8;190;blond;4;Nahverkehr;;6;0;18;(1) einmal pro Woche
+w;21;10;172;braun;4;Fahrrad;;2;0;8;(1) einmal pro Woche
+w;21;11;163;braun;4;Nahverkehr;22;1;0;viele;(3) dreimal pro Woche
+w;21;6;175;rot;4;Nahverkehr;13;2;0;25;(1) einmal pro Woche
+w;23;10;161;rot;4;zuFuss;20;2;0;100;(4) viermal pro Woche
+w;25;8;165;braun;4,1;PKW;30;1;0;10;(1) einmal pro Woche
+m;23;9;184;braun;4,4;Nahverkehr;24;10;0;20;(2) zweimal pro Woche
+m;29;1;179;blond;4,5;zuFuss;24;3;0;2;(3) dreimal pro Woche
+w;21;10;172;blond;5;Nahverkehr;24;3;0;40;(0) nie
+w;20;2;180;blond;5;Nahverkehr;18;4;0,5;50;(0) nie
+w;21;6;175;blond;5;Fahrrad;32;20;0;20;(2) zweimal pro Woche
+w;20;2;158;braun;5;Nahverkehr;20;5;0;100;(2) zweimal pro Woche
+w;21;10;167;braun;5;Nahverkehr;16;4;0,1;30;(0) nie
+w;21;1;170;braun;5;Nahverkehr;24;2;1;20;(1) einmal pro Woche
+w;20;7;175;braun;5;PKW;18;2;20;20;(0) nie
+w;21;1;172;rot;5;Nahverkehr;16;5;1;30;(2) zweimal pro Woche
+w;22;1;171;braun;5,1;Nahverkehr;20;4;0;150;(1) einmal pro Woche
+m;19;6;185;blond;6;PKW;16;3;0;5;(0) nie
+w;22;3;175;blond;6;Nahverkehr;28;4;1;60;(2) zweimal pro Woche
+m;30;6;193;blond;6;PKW;16;1;0,5;5;(1) einmal pro Woche
+w;23;8;164;braun;6;Fahrrad;16;3;0;100;(0) nie
+w;21;8;164;braun;6;Nahverkehr;28;3;0;30;(2) zweimal pro Woche
+w;19;12;172;braun;6;Nahverkehr;16;1;0;5;(2) zweimal pro Woche
+m;22;9;172;braun;6;Nahverkehr;22;2;0;110;(3) dreimal pro Woche
+m;20;8;188;braun;6;Fahrrad;30;10;0;2;(1) einmal pro Woche
+w;24;10;185;braun;6;Nahverkehr;28;3;0,1;20;(0) nie
+w;24;3;166;braun;6;Nahverkehr;20;4;0;30;(0) nie
+w;22;12;178;schwarz;6;Nahverkehr;24;1;0;4;(5) jeden Tag
+m;32;7;197;schwarz;6;PKW;22;4;0;10;(3) dreimal pro Woche
+w;21;7;160;blond;7;Nahverkehr;;2;0;;(0) nie
+w;20;5;167;braun;7;PKW;18;8;1;200;(1) einmal pro Woche
+m;23;2;183;braun;7;Nahverkehr;32;5;0,2;55;(3) dreimal pro Woche
+m;22;7;186;rot;7;Nahverkehr;20;4;0;65;(4) viermal pro Woche
+m;20;10;176;blond;7,4;Nahverkehr;22;2,5;2;40;(4) viermal pro Woche
+m;21;10;185;braun;7,5;Nahverkehr;22;6;0;100;(2) zweimal pro Woche
+w;22;9;169;braun;7,7;PKW;22;3;0;viele;(0) nie
+w;20;6;172;braun;8;PKW;18;5;0;50;(1) einmal pro Woche
+w;22;10;174;braun;8;PKW;24;5;0;100;(1) einmal pro Woche
+w;25;9;162;rot;8;Nahverkehr;20;8;0;25;(0) nie
+m;20;8;167;schwarz;8;Nahverkehr;20;4;0;3;(5) jeden Tag
+w;25;11;170;sonstige;8;Nahverkehr;20;3;0;40;(0) nie
+w;;;;;8;PKW;;;;;(0) nie
+w;20;7;160;braun;9;Nahverkehr;32;2;0,5;130;(1) einmal pro Woche
+w;21;8;180;braun;9;Nahverkehr;22;2;0;40;(0) nie
+w;26;1;168;braun;9,2;zuFuss;24;3;0;100;(3) dreimal pro Woche
+m;22;1;175;blond;9,9;PKW;18;9;0;0;(3) dreimal pro Woche
+w;20;11;168;blond;10;Nahverkehr;16;2;;;(0) nie
+w;19;9;176;blond;10;Nahverkehr;24;8;0;46;(1) einmal pro Woche
+w;26;4;167;blond;10;PKW;24;1;1;5;(2) zweimal pro Woche
+w;20;4;178;blond;10;Nahverkehr;20;2;2;;(0) nie
+w;24;2;165;blond;10;PKW;24;3;0;50;(0) nie
+w;21;7;166;braun;10;Nahverkehr;30;4;2;50;(1) einmal pro Woche
+w;19;6;160;braun;10;PKW;28;6;0,5;200;(2) zweimal pro Woche
+m;22;2;180;braun;10;Nahverkehr;15;8;0,1;100;(1) einmal pro Woche
+m;26;12;190;braun;10;PKW;20;2;1;50;(1) einmal pro Woche
+w;22;10;170;blond;11;PKW;26;2;0;70;(0) nie
+w;20;11;167;blond;12;Nahverkehr;16;3;2;10;(0) nie
+w;22;4;176;blond;12;PKW;;;0;;(0) nie
+w;22;11;164;blond;13;PKW;19;5;1;30;(0) nie
+w;24;9;163;blond;13;Nahverkehr;30;4;0;150;(2) zweimal pro Woche
+w;21;6;170;braun;13;PKW;25;1;10;80;(1) einmal pro Woche
+w;25;1;176;braun;13;Nahverkehr;24;3;0;120;(3) dreimal pro Woche
+w;19;6;172;rot;13;Fahrrad;22;1,5;1;6;(0) nie
+w;19;5;178;blond;15;Nahverkehr;12;3;1;30;(3) dreimal pro Woche
+w;21;4;162;blond;15;Nahverkehr;22;2;0;21;(0) nie
+m;22;2;188;blond;15;PKW;20;3;0;20;(2) zweimal pro Woche
+w;22;2;170;blond;15;Nahverkehr;20;3;0;50;(1) einmal pro Woche
+w;20;6;160;blond;15;PKW;22;4;1;150;(0) nie
+w;21;1;168;braun;15;PKW;26;6;1;30;(2) zweimal pro Woche
+w;20;7;178;braun;15;PKW;10;3;0;10;(1) einmal pro Woche
+w;21;4;170;braun;15;Nahverkehr;20;2;0,5;50;(1) einmal pro Woche
+w;24;7;165;braun;15;PKW;24;5;1;100;(0) nie
+m;35;5;183;schwarz;15;Nahverkehr;20;1,5;20;15;(3) dreimal pro Woche
+w;19;6;170;braun;16;Nahverkehr;9;3;20;17;(0) nie
+w;20;5;175;braun;17;Nahverkehr;24;2;1;20;(0) nie
+w;2w;7;170;blond;18;PKW;22;2;0;114;(0) nie
+w;21;1;168;braun;18;Nahverkehr;18;2;0;20;(0) nie
+w;23;7;166;rot;18;PKW;28;2;0;16;(1) einmal pro Woche
+w;20;5;168;braun;19;PKW;18;3;0;40;(1) einmal pro Woche
+w;20;6;173;braun;19;PKW;16;3;0;90;(0) nie
+w;22;8;172;blond;20;PKW;24;2;1;30;(1) einmal pro Woche
+w;20;10;172;blond;20;Nahverkehr;26;2;2;120;(2) zweimal pro Woche
+w;20;4;164;blond;20;PKW;20;2;1;35;(0) nie
+w;24;1;180;blond;20;PKW;15;2;0;;(2) zweimal pro Woche
+w;28;1;170;blond;20;PKW;10;2;0;8;(0) nie
+w;;2;1,6;braun;20;PKW;18;4;1;50;(1) einmal pro Woche
+w;21;11;164;braun;20;PKW;16;4;2;150;(0) nie
+w;19;7;177;braun;20;PKW;24;2;1;10;(3) dreimal pro Woche
+w;22;7;164;braun;20;PKW;22;1;0;120;(0) nie
+m;31;10;180;braun;20;Nahverkehr;4;1;5;10;(1) einmal pro Woche
+w;23;11;170;braun;20;Nahverkehr;11;2;1;;(0) nie
+w;23;7;160;braun;20;PKW;;3;1;10;(0) nie
+m;23;8;187;braun;20;Nahverkehr;18;4;0;6;(1) einmal pro Woche
+m;29;4;187;braun;20;PKW;22;3;0;47;(1) einmal pro Woche
+w;22;9;164;rot;20;PKW;32;2;2;20;(2) zweimal pro Woche
+w;20;5;175;rot;20;Nahverkehr;22;3;0;50;(2) zweimal pro Woche
+w;21;3;177;rot;20;PKW;28;3;0,25;57;(0) nie
+w;22;5;178;rot;20;PKW;26;2;1;40;(0) nie
+w;23;2;173;blond;21;Nahverkehr;;5;1;;(2) zweimal pro Woche
+w;20;9;172;rot;22;Nahverkehr;20;1;5;150;(0) nie
+w;22;1;160;blond;23;Nahverkehr;26;0,4;0,1;70;(0) nie
+m;27;4;195;schwarz;23;PKW;16;2;0;10;(0) nie
+w;23;6;173;blond;24;PKW;16;3;0;60;(0) nie
+w;20;2;170;braun;24;Nahverkehr;20;2;1;10;(0) nie
+w;21;3;176;blond;25;PKW;20;3;0;10;(3) dreimal pro Woche
+w;19;5;168;blond;25;Nahverkehr;24;4;0;30;(1) einmal pro Woche
+w;22;9;168;blond;25;Nahverkehr;18;3;0;15;(1) einmal pro Woche
+w;20;1;178;blond;25;PKW;18;3;0;40;(2) zweimal pro Woche
+w;29;8;179;blond;25;PKW;18;1;20;40;(0) nie
+w;20;9;170;braun;25;Nahverkehr;22;2;0;50;(1) einmal pro Woche
+m;23;12;177;braun;25;PKW;13;1;0;10;(0) nie
+m;21;8;177;braun;25;PKW;20;1;0;400;(2) zweimal pro Woche
+w;21;4;176;braun;25;PKW;20;8;3;40;(1) einmal pro Woche
+m;24;10;183;braun;25;Nahverkehr;22;3;1;10;(2) zweimal pro Woche
+w;22;12;170;rot;26;Nahverkehr;16;3;1;150;(1) einmal pro Woche
+w;26;7;163;schwarz;26;PKW;16;2;1;10;(0) nie
+w;20;6;162;braun;27;Nahverkehr;;2,5;1;30;(0) nie
+w;23;1;169;braun;27;PKW;;4;1;8;(0) nie
+w;21;9;178;braun;28;Nahverkehr;22;0,5;0;30;(1) einmal pro Woche
+w;20;12;170;braun;29;PKW;26;2,5;0;100;(0) nie
+w;22;7;163;blond;30;Nahverkehr;24;5;0;15;(0) nie
+w;22;3;163;blond;30;Nahverkehr;11;2;1;100;(0) nie
+w;20;1;175;blond;30;Nahverkehr;18;5;1;100;(0) nie
+w;23;3;176;blond;30;Nahverkehr;18;2;0,2;42;(2) zweimal pro Woche
+w;20;7;158;braun;30;PKW;20;4;0;5;(5) jeden Tag
+w;19;4;172;braun;31;Nahverkehr;26;3;1;200;(1) einmal pro Woche
+w;21;9;170;braun;31;PKW;18;2;0;12;(1) einmal pro Woche
+w;22;6;166;blond;32;Nahverkehr;20;;0;;(0) nie
+w;25;10;180;braun;32;Nahverkehr;24;4;0;104;(1) einmal pro Woche
+w;21;3;180;blond;33;Nahverkehr;24;5;0,5;;(0) nie
+w;19;5;172;braun;33;Nahverkehr;;4;4;50;(0) nie
+w;20;8;168;braun;34;PKW;18;4;120;80;(0) nie
+w;21;3;168;blond;35;PKW;12;5;0,5;;(1) einmal pro Woche
+w;24;8;166;blond;35;PKW;20;1,5;0;20;(0) nie
+w;22;9;167;braun;35;Nahverkehr;20;1;0;150;(1) einmal pro Woche
+w;22;10;177;braun;35;Nahverkehr;4;2;0;;(0) nie
+w;21;12;165;braun;35;PKW;24;2;0;46;(2) zweimal pro Woche
+w;20;3;177;grau;35;PKW;24;6;0;76;(1) einmal pro Woche
+w;21;11;163;braun;36;PKW;22;4;1;50;(1) einmal pro Woche
+w;21;2;174;blond;37;Nahverkehr;20;4;3;;(1) einmal pro Woche
+w;22;3;163;rot;37;PKW;20;3;1;33;(0) nie
+w;20;4;163;braun;38;Nahverkehr;24;2;0,001;100;(1) einmal pro Woche
+w;21;9;;braun;38;PKW;22;2;2;;(1) einmal pro Woche
+w;25;12;162;braun;39;Nahverkehr;21;3;0;15;(1) einmal pro Woche
+w;21;10;159;blond;40;PKW;26;2;;;(1) einmal pro Woche
+w;21;1;164;blond;40;Nahverkehr;30;3;5;150;(0) nie
+w;21;1;175;blond;40;PKW;20;4;2;50;(0) nie
+w;19;12;172;blond;40;PKW;20;1;0;30;(0) nie
+w;21;3;185;blond;40;PKW;15;8;0;25;(0) nie
+w;24;3;170;blond;40;Nahverkehr;24;2;0;77;(1) einmal pro Woche
+m;23;4;188;blond;40;Nahverkehr;22;5;0;500;(1) einmal pro Woche
+w;25;8;171;blond;40;Nahverkehr;24;1;0;500;(2) zweimal pro Woche
+w;20;6;170;braun;40;Nahverkehr;20;2;0;38;(0) nie
+w;22;7;180;braun;40;Nahverkehr;28;3;0,2;110;(2) zweimal pro Woche
+w;20;6;159;braun;40;PKW;22;3;0;8;(1) einmal pro Woche
+w;20;9;165;blond;42;Nahverkehr;28;3;0;50;(0) nie
+w;20;8;182;blond;42;Nahverkehr;24;;;39;(1) einmal pro Woche
+w;20;6;165;braun;44;PKW;26;3;0;150;(0) nie
+w;20;2;176;rot;44;Nahverkehr;20;4;0;25;(1) einmal pro Woche
+w;20;5;165;blond;45;Nahverkehr;18;3;1;26;(0) nie
+w;27;3;166;blond;45;PKW;24;3;1;30;(1) einmal pro Woche
+w;21;1;171;blond;45;Nahverkehr;20;3;2;50;(1) einmal pro Woche
+w;20;5;171;braun;45;PKW;26;2;0;20;(1) einmal pro Woche
+w;19;7;173;rot;45;Nahverkehr;;2;;;(1) einmal pro Woche
+w;20;7;170;blond;46;PKW;22;5;0;100;(0) nie
+w;20;10;167;blond;46;Nahverkehr;20;3;1;200;(1) einmal pro Woche
+w;24;4;171;blond;50;PKW;12;3;0;50;(4) viermal pro Woche
+w;22;10;180;blond;50;PKW;20;2;1;70;(0) nie
+w;20;8;165;braun;50;PKW;16;2;0;3;(0) nie
+m;26;6;180;braun;50;Nahverkehr;20;3;1;50;(2) zweimal pro Woche
+m;27;10;180;blond;52;Nahverkehr;15;4;1;50;(1) einmal pro Woche
+w;28;6;181;blond;53;PKW;18;3;0,1;30;(0) nie
+w;20;11;175;braun;56;Nahverkehr;18;4;0;172;(0) nie
+w;21;2;163;braun;57;Nahverkehr;;2;1;17;(1) einmal pro Woche
+w;22;11;167;blond;60;Nahverkehr;;2;1;100;(1) einmal pro Woche
+w;21;8;170;blond;60;Nahverkehr;20;8;1;200;(0) nie
+w;20;7;175;braun;60;Nahverkehr;22;1;0;100;(1) einmal pro Woche
+w;23;11;168;braun;60;Nahverkehr;18;3;0;20;(1) einmal pro Woche
+w;24;10;169;blond;63;PKW;;;;;
+w;20;1;173;braun;63;Nahverkehr;26;5;0;22;(0) nie
+w;20;9;172;blond;75;Nahverkehr;;3;0,2;75;(1) einmal pro Woche
+w;25;4;170;braun;76;Nahverkehr;18;3;0,25;20;(3) dreimal pro Woche
+w;22;10;165;grau;80;Nahverkehr;30;3;10;7;(0) nie
+w;21;9;170;braun;89;Nahverkehr;30;4;0;30;(1) einmal pro Woche
+w;21;3;1,8;blond;105;Nahverkehr;30;4;2;15;(2) zweimal pro Woche
+m;24;8;170;braun;5;Nahverkehr;;;;;
+w;19;12;168;blond;;Nahverkehr;18;5;1;200;(1) einmal pro Woche
+w;25;11;176;blond;;Nahverkehr;20;2;0;30;(1) einmal pro Woche
+m;25;1;181;braun;4,2;Nahverkehr;10;6;0;52;(4) viermal pro Woche
+w;22;3;170;braun;4,3;Nahverkehr;20;2;0;150;(2) zweimal pro Woche
+w;26;5;170;braun;5;Nahverkehr;12;4;0,5;15;(2) zweimal pro Woche
+w;21;10;166;braun;5;PKW;18;3;0;100;(2) zweimal pro Woche
+w;26;3;184;blond;6;Nahverkehr;30;10;7;800;(4) viermal pro Woche
+w;26;3;210;braun;6;Nahverkehr;26;9;0;300;(0) nie
+w;23;1;171;blond;10;Nahverkehr;16;5;1;12;(0) nie
+w;28;12;168;braun;10;PKW;24;3;1;1;(1) einmal pro Woche
+w;20;8;171;blond;15;Nahverkehr;12;2,5;;9;(0) nie
+w;21;8;165;blond;18;Nahverkehr;18;3;;50;(0) nie
+w;24;4;166;blond;19;PKW;20;2;1;20;(0) nie
+w;21;7;164;blond;24;PKW;22;;;;(2) zweimal pro Woche
+w;26;6;164;braun;40;Nahverkehr;20;2;0;0;(1) einmal pro Woche
+w;20;5;164;braun;50;Nahverkehr;16;2;10;50;(3) dreimal pro Woche
+w;23;3;173;blond;70;Nahverkehr;16;1,5;0,07;80;(0) nie
+w;28;12;170;blond;8;PKW;18;2;0;7;(1) einmal pro Woche
+w;32;9;158;rot;8;PKW;8;4;1;50;(1) einmal pro Woche
+w;23;2;170;braun;45;Nahverkehr;8;6;0;78;(0) nie
+w;23;8;185;blond;1;zuFuss;42;1;3;2;(4) viermal pro Woche
+w;25;8;170;blond;2;Nahverkehr;14;3;0,1;35;(0) nie
+w;21;11;174;blond;5;Nahverkehr;20;6;1;15;(0) nie
+m;24;9;179;blond;10;Fahrrad;10;3;0;100;(0) nie
+w;30;10;172;braun;12;PKW;22;3;0;20;(0) nie
+w;29;9;176;blond;30;PKW;10;1;0;30;(0) nie
+w;27;8;165;blond;35;PKW;14;2;0;30;(0) nie
+w;22;11;177;blond;60;Nahverkehr;8;3;0;30;(1) einmal pro Woche
+w;25;10;171;grau;17;PKW;16;8;1;50;(0) nie
+d;22;9;150;grau;10;Nahverkehr;4;20;0;0;(1) einmal pro Woche
+w;23;9;169;braun;2,1;Fahrrad;22;3,5;0,5;8;(2) zweimal pro Woche
+m;20;5;155;braun;34;Nahverkehr;12;4;;3;(1) einmal pro Woche
+w;24;8;170;braun;45;Nahverkehr;20;4;0,2;20;(2) zweimal pro Woche
+w;26;7;166;rot;31;PKW;;3;0;20;(0) nie
+m;24;5;183;braun;35;Nahverkehr;;;;;
+w;22;8;168;blond;64;Nahverkehr;30;2;2;81;(0) nie
+w;21;8;;braun;;PKW;24;;;;
+w;19;6;;;;;;;;;
