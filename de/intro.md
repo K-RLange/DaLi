@@ -10,9 +10,9 @@ installieren zu müssen. Alle Datensätze aus DaLi Thema 3 sind bereits in den
 Kurs eingebaut und können einfach via
 ```bash
 import pandas as pd
-df = pd.read_csv("DOKUMENT_NAME.csv")
+df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ```
-ausgelesen werden.
+ausgelesen werden. 
 
 ```{attention}
 Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol ![live code symbol](code_symbol.PNG) oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.
