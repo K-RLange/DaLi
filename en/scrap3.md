@@ -21,7 +21,7 @@ kernelspec:
 Feel free to use any number of the following code cells to solve the tasks:
 ```{code-cell}
 # import pandas as pd
-# df = pd.read_csv("DOCUMENT_NAME.csv")
+# df = pd.read_csv("DOCUMENT_NAME.csv", sep=";", decimal=",")
 ```
 ```{code-cell}
 # Your code goes here
