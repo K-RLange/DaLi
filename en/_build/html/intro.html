@@ -399,7 +399,7 @@ document.write(`
 an IDE locally. All datasets from DaLi Topic 3 are already integrated into the
 course and can simply be read in via</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>import<span class="w"> </span>pandas<span class="w"> </span>as<span class="w"> </span>pd
-<span class="nv">df</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>pd.read_csv<span class="o">(</span><span class="s2">&quot;DOKUMENT_NAME.csv&quot;</span><span class="o">)</span>
+<span class="nv">df</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>pd.read_csv<span class="o">(</span><span class="s2">&quot;DOKUMENT_NAME.csv&quot;</span>,<span class="w"> </span><span class="nv">sep</span><span class="o">=</span><span class="s2">&quot;;&quot;</span>,<span class="w"> </span><span class="nv">decimal</span><span class="o">=</span><span class="s2">&quot;,&quot;</span><span class="o">)</span>
 </pre></div>
 </div>
 <div class="admonition attention">

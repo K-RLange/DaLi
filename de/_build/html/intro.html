@@ -399,7 +399,7 @@ document.write(`
 installieren zu müssen. Alle Datensätze aus DaLi Thema 3 sind bereits in den
 Kurs eingebaut und können einfach via</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>import<span class="w"> </span>pandas<span class="w"> </span>as<span class="w"> </span>pd
-<span class="nv">df</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>pd.read_csv<span class="o">(</span><span class="s2">&quot;DOKUMENT_NAME.csv&quot;</span><span class="o">)</span>
+<span class="nv">df</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>pd.read_csv<span class="o">(</span><span class="s2">&quot;DOKUMENT_NAME.csv&quot;</span>,<span class="w"> </span><span class="nv">sep</span><span class="o">=</span><span class="s2">&quot;;&quot;</span>,<span class="w"> </span><span class="nv">decimal</span><span class="o">=</span><span class="s2">&quot;,&quot;</span><span class="o">)</span>
 </pre></div>
 </div>
 <p>ausgelesen werden.</p>

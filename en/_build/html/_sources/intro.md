@@ -10,7 +10,7 @@ an IDE locally. All datasets from DaLi Topic 3 are already integrated into the
 course and can simply be read in via
 ```bash
 import pandas as pd
-df = pd.read_csv("DOKUMENT_NAME.csv")
+df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ```
 
 ```{attention}
