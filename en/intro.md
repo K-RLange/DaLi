@@ -14,7 +14,7 @@ df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ```
 
 ```{attention}
-To edit and execute the Python code in this course, you will find this symbol ![live code symbol](code_symbol.PNG) at the top of every page that contains Python code. You can click on it and then select "Live code" to edit and run the code yourself. Feel free to try different things and experiment with the code.
+To edit and execute the Python code in this course, you will find this symbol ![live code symbol](code_symbol.PNG) at the top of every page that contains Python code. You can click on it and then select "Live code" to edit and run the code yourself. The first time you do this, it will take several minutes to load the live code environment. This is normal. You will be able to run your code when it says "ready". Feel free to try different things and experiment with the code.
 ```
 
 To save your results locally, use the download symbol located to the right of the run symbol. Select a download as an ipynb file, which can then later be opened in any IDE.
