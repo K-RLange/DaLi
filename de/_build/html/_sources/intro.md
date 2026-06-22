@@ -15,7 +15,7 @@ df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ausgelesen werden. 
 
 ```{attention}
-Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol ![live code symbol](code_symbol.PNG) oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.
+Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol ![live code symbol](code_symbol.PNG) oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Beim ersten Mal kann es einige Minuten dauern, bis die Live-Code-Umgebung geladen ist. Das ist normal. Du kannst deinen Code ausführen, sobald „ready“ angezeigt wird. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.
 ```
 
 Um deine Ergebnisse lokal abzuspeichern, benutze das Download-Symbol, welches sich rechts neben dem Ausführen-Symbol befindet. Wähle einen Download als ipynb-Datei aus, dieser kann dann später in einer beliebigen IDE ausgelesen werden.

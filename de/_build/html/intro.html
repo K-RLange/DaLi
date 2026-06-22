@@ -56,13 +56,15 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script defer="defer" src="_static/refresh.js?v=9bea9b76"></script>
-    <script>const thebe_selector = ".thebe,.cell"
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
-    <script defer="defer" src="_static/sphinx-thebe-lite.js?v=2a71eeb1"></script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script>const thebe_selector = ".thebe,.cell"
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
@@ -405,7 +407,7 @@ Kurs eingebaut und können einfach via</p>
 <p>ausgelesen werden.</p>
 <div class="admonition attention">
 <p class="admonition-title">Attention</p>
-<p>Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol <img alt="live code symbol" src="_images/code_symbol.PNG" /> oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.</p>
+<p>Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol <img alt="live code symbol" src="_images/code_symbol.PNG" /> oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Beim ersten Mal kann es einige Minuten dauern, bis die Live-Code-Umgebung geladen ist. Das ist normal. Du kannst deinen Code ausführen, sobald „ready“ angezeigt wird. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.</p>
 </div>
 <p>Um deine Ergebnisse lokal abzuspeichern, benutze das Download-Symbol, welches sich rechts neben dem Ausführen-Symbol befindet. Wähle einen Download als ipynb-Datei aus, dieser kann dann später in einer beliebigen IDE ausgelesen werden.</p>
 <p>Wenn du Fragen hast, zögere bitte nicht, uns eine E-Mail zu schreiben:</p>
@@ -424,19 +426,20 @@ Kurs eingebaut und können einfach via</p>
 
         <script type="text/x-thebe-config">
         {
-            "rootPath": "./",
-            "requestKernel": true,
-            "useJupyterLite": true,
-            "useBinder": false,
-            "kernelOptions": {
-                "path": "/"
+            requestKernel: true,
+            binderOptions: {
+                repo: "K-RLange/DaLi",
+                ref: "master",
             },
-            "codeMirrorConfig": {
-                "theme": "default",
-                "mode": "python"
+            codeMirrorConfig: {
+                theme: "default",
+                mode: "python"
             },
-            "mountRestartButton": false,
-            "mountRestartallButton": false
+            kernelOptions: {
+                name: "python3",
+                path: "de/."
+            },
+            predefinedOutput: true
         }
         </script>
         <script>kernelName = 'python3'</script>
@@ -483,13 +486,6 @@ By Kai-Robin Lange, Henrike Weinert
   
   <div class="footer-item">
     
-
-  <p class="copyright">
-    
-      © Copyright 2023.
-      <br/>
-    
-  </p>
 
   </div>
   

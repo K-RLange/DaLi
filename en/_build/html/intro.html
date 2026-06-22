@@ -56,13 +56,15 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script defer="defer" src="_static/refresh.js?v=9bea9b76"></script>
-    <script>const thebe_selector = ".thebe,.cell"
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
-    <script defer="defer" src="_static/sphinx-thebe-lite.js?v=2a71eeb1"></script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script>const thebe_selector = ".thebe,.cell"
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
@@ -404,7 +406,7 @@ course and can simply be read in via</p>
 </div>
 <div class="admonition attention">
 <p class="admonition-title">Attention</p>
-<p>To edit and execute the Python code in this course, you will find this symbol <img alt="live code symbol" src="_images/code_symbol.PNG" /> at the top of every page that contains Python code. You can click on it and then select “Live code” to edit and run the code yourself. Feel free to try different things and experiment with the code.</p>
+<p>To edit and execute the Python code in this course, you will find this symbol <img alt="live code symbol" src="_images/code_symbol.PNG" /> at the top of every page that contains Python code. You can click on it and then select “Live code” to edit and run the code yourself. The first time you do this, it will take several minutes to load the live code environment. This is normal. You will be able to run your code when it says “ready”. Feel free to try different things and experiment with the code.</p>
 </div>
 <p>To save your results locally, use the download symbol located to the right of the run symbol. Select a download as an ipynb file, which can then later be opened in any IDE.</p>
 <p>If you have any questions, please don’t hesitate to send us an email:</p>
@@ -423,19 +425,20 @@ course and can simply be read in via</p>
 
         <script type="text/x-thebe-config">
         {
-            "rootPath": "./",
-            "requestKernel": true,
-            "useJupyterLite": true,
-            "useBinder": false,
-            "kernelOptions": {
-                "path": "/"
+            requestKernel: true,
+            binderOptions: {
+                repo: "K-RLange/DaLi",
+                ref: "master",
             },
-            "codeMirrorConfig": {
-                "theme": "default",
-                "mode": "python"
+            codeMirrorConfig: {
+                theme: "default",
+                mode: "python"
             },
-            "mountRestartButton": false,
-            "mountRestartallButton": false
+            kernelOptions: {
+                name: "python3",
+                path: "en/."
+            },
+            predefinedOutput: true
         }
         </script>
         <script>kernelName = 'python3'</script>
