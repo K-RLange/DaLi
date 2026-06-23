@@ -13,12 +13,12 @@ import pandas as pd
 df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ```
 ausgelesen werden. Die folgenden Datensätze können ausgelesen werden:
-Datensatz Eingangsbefragung: "Eingangsbefragung.csv"
-Datensatz Daten NFL: "DLT3_Daten_NFL.csv"
-Datensatz Todesursachen: "DLT3_Daten_Todesursachen.csv"
-Datensatz Telefone pro 100 Einwohner: "DLT3_Daten_Telefone_pro_100_Einwohner.csv"
-Datensatz TodesfaelleHitzeKaelte: "DL04_Test_DatenTodesfaelleHitzeKaelte.csv"
-Datensatz Risiko: "DL04_Test_DatensatzRisiko.csv"
+- Datensatz Eingangsbefragung: "Eingangsbefragung.csv"
+- Datensatz Daten NFL: "DLT3_Daten_NFL.csv"
+- Datensatz Todesursachen: "DLT3_Daten_Todesursachen.csv"
+- Datensatz Telefone pro 100 Einwohner: "DLT3_Daten_Telefone_pro_100_Einwohner.csv"
+- Datensatz TodesfaelleHitzeKaelte: "DL04_Test_DatenTodesfaelleHitzeKaelte.csv"
+- Datensatz Risiko: "DL04_Test_DatensatzRisiko.csv"
 
 ```{attention}
 Um den Python-Code in diesem Kurs zu bearbeiten und auszuführen, findest du dieses Symbol ![live code symbol](code_symbol.PNG) oben auf jeder Seite, die Python-Code enthält. Du kannst darauf klicken und dann „Live code“ auswählen, um den Code selbst zu bearbeiten und auszuführen. Beim ersten Mal kann es einige Minuten dauern, bis die Live-Code-Umgebung geladen ist. Das ist normal. Du kannst deinen Code ausführen, sobald „ready“ angezeigt wird. Probiere ruhig verschiedene Dinge aus und experimentiere mit dem Code.

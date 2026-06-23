@@ -13,12 +13,12 @@ import pandas as pd
 df = pd.read_csv("DOKUMENT_NAME.csv", sep=";", decimal=",")
 ```
 You can read the following files using this method:
-Dataset Eingangsbefragung: "Eingangsbefragung.csv"
-Dataset Data NFL: "DLT3_Daten_NFL.csv"
-Dataset Todesursachen: "DLT3_Daten_Todesursachen.csv"
-Dataset Telefone pro 100 Einwohner: "DLT3_Daten_Telefone_pro_100_Einwohner.csv"
-Dataset TodesfaelleHitzeKaelte: "DL04_Test_DatenTodesfaelleHitzeKaelte.csv"
-Dataset Risiko: "DL04_Test_DatensatzRisiko.csv"
+- Dataset Eingangsbefragung: "Eingangsbefragung.csv"
+- Dataset Data NFL: "DLT3_Daten_NFL.csv"
+- Dataset Todesursachen: "DLT3_Daten_Todesursachen.csv"
+- Dataset Telefone pro 100 Einwohner: "DLT3_Daten_Telefone_pro_100_Einwohner.csv"
+- Dataset TodesfaelleHitzeKaelte: "DL04_Test_DatenTodesfaelleHitzeKaelte.csv"
+- Dataset Risiko: "DL04_Test_DatensatzRisiko.csv"
 
 ```{attention}
 To edit and execute the Python code in this course, you will find this symbol ![live code symbol](code_symbol.PNG) at the top of every page that contains Python code. You can click on it and then select "Live code" to edit and run the code yourself. The first time you do this, it will take several minutes to load the live code environment. This is normal. You will be able to run your code when it says "ready". Feel free to try different things and experiment with the code.
